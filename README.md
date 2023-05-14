@@ -2,17 +2,17 @@
 
 ## About the Project
 
-This project is a starter-kit-ish for projects that intend to use Laravel + Svelte + InertiaJS, thus, creating a unified workflow for Javascript and PHP.
+This project is a starter-kit-ish for projects that intend to use Laravel + Svelte + TailwindCSS + InertiaJS, thus, creating a unified workflow for Javascript and PHP.
 
 ## Installing the project
 
 - First, clone the repository using this command
 ```bash
-git clone https://github.com/Visnicio/laravel-svelte-starter.git
+git clone https://github.com/Visnicio/laravel-svelte-tailwind.git
 ```
 - Next, install the dependencies using this command
 ```bash
-cd laravel-svelte-starter
+cd laravel-svelte-tailwind
 composer install
 npm install
 ```
